@@ -4,7 +4,7 @@ This is a small text based program allowing users to enter some letters and/or n
 
 Functions, for loop, while loop have been used in this program.
 
-### Here's the Morse Code (hover to see the title text):
+### Morse Code Image
 
 
 ![alt text](https://github.com/XinwuWang/Morse_code/blob/main/readme_img/International_Morse_Code.svg.png "Morse Code")
