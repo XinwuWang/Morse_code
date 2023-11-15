@@ -11,4 +11,4 @@ Functions, for loop, while loop have been used in this program.
 
 ### Reference
 * [Morse code](https://en.wikipedia.org/wiki/Morse_code)  
-* Link: https://en.wikipedia.org/wiki/Morse_code
+  - Link: https://en.wikipedia.org/wiki/Morse_code
